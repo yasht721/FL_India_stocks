@@ -1,0 +1,502 @@
+Name,Ticker,Sector,Sub-Sector, Market Cap , Close Price ,PE Ratio,Common Shares Outstanding
+Reliance Industries Ltd,RELIANCE.NS,Energy,Oil & Gas - Refining & Marketing,1803718.44,2664.80,29.7128481,676.2068814
+Tata Consultancy Services Ltd,TCS.NS,Information Technology,IT Services & Consulting,1235021.31,3375.25,32.22327118,365.9051373
+HDFC Bank Ltd,HDFCBANK.NS,Financials,Private Banks,778140.46,1401.55,20.4489942,551.2776482
+Infosys Ltd,INFY.NS,Information Technology,IT Services & Consulting,640185.65,1526.80,28.95457471,419.3012929
+Hindustan Unilever Ltd,HINDUNILVR.NS,Consumer Staple,FMCG - Household Products,551907.24,2348.95,62.15871601,234.9591262
+ICICI Bank Ltd,ICICIBANK.NS,Financials,Private Banks,520433.60,748.50,20.7260663,691.6258476
+Housing Development Finance Corporation Ltd,SBIN.NS,Financials,Home Financing,429403.04,2367.25,19.00459996,180.3946433
+State Bank of India,HDFC.NS,Financials,Public Banks,423562.06,474.60,12.26050474,892.4611534
+Bharti Airtel Ltd,BHARTIARTL.NS,Communication Services,Telecom Services,396461.02,699.05,93.17751675,559.511262
+Kotak Mahindra Bank Ltd,KOTAKBANK.NS,Financials,Private Banks,378314.19,1903.20,31.70619426,198.1835668
+Bajaj Finance Ltd,ADANIGREEN.NS,Industrials,Consumer Finance,370471.15,6111.20,52.71187095,60.1565625
+Adani Green Energy Ltd,BAJFINANCE.NS,Financials,Renewable Energy,340828.35,2151.65,698.4187462,156.401428
+ITC Ltd,ITC.NS,Consumer Staple,FMCG - Tobacco,331557.20,269.05,21.77689859,1230.884423
+Adani Total Gas Ltd,ASIANPAINT.NS,Materials,Gas Distribution,284795.82,2589.50,564.3320671,109.9810083
+HCL Technologies Ltd,HCLTECH.NS,Information Technology,IT Services & Consulting,282194.03,1039.90,20.90481023,271.3665096
+Asian Paints Ltd,ATGL.NS,Utilities,Paints,272732.36,2844.00,89.99375102,95.919779
+Wipro Ltd,ADANITRANS.NS,Utilities,IT Services & Consulting,260262.69,476.25,21.281374,547.9138555
+Adani Enterprises Ltd,ADANIENT.NS,Industrials,Commodities Trading,246884.34,2165.65,531.8147099,109.9810083
+Avenue Supermarts Ltd,WIPRO.NS,Information Technology,Retail - Department Stores,245921.18,3796.40,164.7657926,64.7774691
+Maruti Suzuki India Ltd,DMART.NS,Consumer Discretionary,Four Wheelers,242083.94,8013.90,62.4008092,30.208006
+Adani Transmission Ltd,MARUTI.NS,Consumer Discretionary,Power Infrastructure,241169.52,2162.00,200.2054757,109.9810083
+Larsen & Toubro Ltd,LT.NS,Industrials,Construction & Engineering,233359.58,1660.85,27.32183028,140.4555297
+Sun Pharmaceutical Industries Ltd,SUNPHARMA.NS,Health Care,Pharmaceuticals,213132.93,888.30,64.79642151,239.933497
+Axis Bank Ltd,AXISBANK.NS,Financials,Private Banks,213033.00,693.65,15.13367765,306.3748652
+Bajaj Finserv Ltd,ONGC.NS,Energy,Insurance,205633.83,12924.05,45.12710304,15.9136111
+Titan Company Ltd,BAJAJFINSV.NS,Financials,"Precious Metals, Jewellery & Watches",200275.68,2255.90,92.16552224,88.778616
+Oil and Natural Gas Corporation Ltd,TITAN.NS,Consumer Discretionary,Oil & Gas - Exploration & Production,181218.92,144.05,3.980898995,1258.027921
+UltraTech Cement Ltd,ULTRACEMCO.NS,Materials,Cement,175998.41,6102.65,23.96391294,28.8653398
+Nestle India Ltd,NESTLEIND.NS,Consumer Staple,FMCG - Foods,170722.34,17706.90,79.59603152,9.6415716
+Power Grid Corporation of India Ltd,ADANIPORTS.NS,Industrials,Power Transmission & Distribution,159214.71,228.25,9.46350744,697.5330794
+Tata Motors Ltd,POWERGRID.NS,Utilities,Four Wheelers,157768.63,442.40,-13.87903051,332.0557765
+Tata Motors Ltd - DVR,JSWSTEEL.NS,Materials,Four Wheelers,157768.63,213.45,-12.06880666,
+Adani Ports and Special Economic Zone Ltd,TATAMOTORS.NS,Consumer Discretionary,Ports,155196.06,734.70,32.82426122,203.1751761
+NTPC Ltd,TATAMTRDVR.NS,Consumer Discretionary,Power Generation,146322.69,150.90,8.774500444,969.6666134
+JSW Steel Ltd,NTPC.NS,Utilities,Iron & Steel,129847.55,538.85,6.283452886,301.5766346
+HDFC Life Insurance Company Ltd,TATASTEEL.NS,Materials,Insurance,128665.05,608.90,96.96445921,202.0943966
+Tata Steel Ltd,HINDZINC.NS,Materials,Iron & Steel,127930.74,1047.45,3.186007822,120.4516515
+Hindustan Zinc Ltd,VEDL.NS,Materials,Mining - Diversified,126041.27,298.30,13.08975654,422.5319
+Mahindra and Mahindra Ltd,HDFCLIFE.NS,Financials,Four Wheelers,119335.12,998.35,18.14342649,111.0297953
+Vedanta Ltd,COALINDIA.NS,Materials,Metals - Diversified,116150.40,313.20,6.177883965,372
+Coal India Ltd,DIVISLAB.NS,Health Care,Mining - Coal,115366.27,187.20,6.646250124,616.2728327
+SBI Life Insurance Company Ltd,IOC.NS,Energy,Insurance,114890.23,1148.40,76.28884248,100.0070908
+Tech Mahindra Ltd,TECHM.NS,Information Technology,IT Services & Consulting,113161.52,1164.00,20.3304855,96.8260067
+Pidilite Industries Ltd,BAJAJ-AUTO.NS,Consumer Discretionary,Diversified Chemicals,113073.84,2224.60,93.63827951,50.815338
+Bajaj Auto Ltd,PIDILITIND.NS,Materials,Two Wheelers,111600.18,3856.70,18.09966454,28.936702
+Indian Oil Corporation Ltd,M&M.NS,Consumer Discretionary,Oil & Gas - Refining & Marketing,109298.39,116.10,4.354130493,918.1040466
+Divi's Laboratories Ltd,SBILIFE.NS,Financials,Labs & Life Sciences Services,94679.37,3566.50,31.98141129,26.546858
+Grasim Industries Ltd,GRASIM.NS,Materials,Cement,94639.35,1441.00,12.5353788,65.8073139
+Hindalco Industries Ltd,HINDALCO.NS,Materials,Metals - Aluminium,93356.49,416.75,6.799452988,222.4020885
+Dabur India Ltd,DABUR.NS,Consumer Staple,FMCG - Personal Products,90178.36,510.10,51.84988627,176.7425349
+Britannia Industries Ltd,SIEMENS.NS,Industrials,FMCG - Foods,86140.52,3576.25,56.49225768,24.0868296
+Siemens Ltd,BRITANNIA.NS,Consumer Staple,Conglomerates,86106.32,2417.90,78.9748844,35.6120255
+DLF Ltd,DLF.NS,Real Estate,Real Estate,85856.19,346.85,101.7060587,247.5311706
+Godrej Consumer Products Ltd,SHREECEM.NS,Materials,FMCG - Personal Products,81448.58,796.50,45.67065137,102.2486273
+Shree Cement Ltd,CIPLA.NS,Health Care,Cement,81037.12,22460.40,34.75094694,3.6080748
+Cipla Ltd,GODREJCP.NS,Consumer Staple,Pharmaceuticals,79620.51,986.80,31.47590893,80.6463279
+Havells India Ltd,HAVELLS.NS,Industrials,Electrical Components & Equipments,76253.55,1217.60,63.7321056,62.5802834
+ICICI Prudential Life Insurance Company Ltd,TATAPOWER.NS,Utilities,Insurance,76238.79,530.40,100.4199058,143.5974231
+Eicher Motors Ltd,EICHERMOT.NS,Industrials,Trucks & Buses,75423.98,2758.45,44.98627083,27.3335922
+Tata Power Company Ltd,ICICIPRULI.NS,Financials,Power Transmission & Distribution,74531.29,233.25,42.79816644,319.6991847
+Ambuja Cements Ltd,AMBUJACEM.NS,Materials,Cement,73776.65,371.55,26.53473571,198.5645229
+Larsen & Toubro Infotech Ltd,BPCL.NS,Energy,IT Services & Consulting,73459.24,4191.10,31.98329994,17.4750608
+SBI Cards and Payment Services Ltd,LTI.NS,Information Technology,Payment Infrastructure,73124.95,775.25,45.24666891,94.0525456
+SRF Ltd,DRREDDY.NS,Health Care,Textiles,72624.63,2450.05,38.44770198,30.1326025
+Indusind Bank Ltd,SBICARD.NS,Financials,Private Banks,72532.43,936.20,15.0963617,77.3372299
+Dr Reddy's Laboratories Ltd,NYKAA.NS,Industrials,Pharmaceuticals,72527.00,4370.30,33.23115607,16.6301431
+Bharat Petroleum Corporation Ltd,INDUSINDBK.NS,Financials,Oil & Gas - Refining & Marketing,71175.92,329.15,6.093045921,209.2913412
+Interglobe Aviation Ltd,GAIL.NS,Utilities,Airlines,69688.73,1808.90,-11.30972695,38.491
+Marico Ltd,SRF.NS,Consumer Discretionary,FMCG - Personal Products,69197.91,535.85,56.48809143,129.1018088
+Tata Consumer Products Ltd,MARICO.NS,Consumer Staple,Tea & Coffee,69130.20,750.15,69.15994068,92.1551715
+Fsn E-Commerce Ventures Ltd,TATACONSUM.NS,Consumer Staple,Business Support Services,66457.46,1401.45,1617.757141,4.5171711
+GAIL (India) Ltd,INDIGO.NS,Industrials,Gas Distribution,63830.54,143.75,5.208075477,444.0385225
+ICICI Lombard General Insurance Company Ltd,ICICIGI.NS,Financials,Insurance,63348.78,1290.30,49.84129169,45.4594504
+Hindustan Aeronautics Ltd,BERGEPAINT.NS,Materials,Aerospace & Defense Equipments,60922.06,1821.90,11.9924368,33.43875
+United Spirits Ltd,UPL.NS,Materials,Alcoholic Beverages,59776.93,822.65,72.14208773,72.6638715
+Berger Paints India Ltd,HAL.NS,Industrials,Paints,58784.50,605.20,70.58487735,97.1295037
+UPL Ltd,MCDOWELL-N.NS,Consumer Staple,Fertilizers & Agro Chemicals,58738.80,782.55,16.19933837,76.4045456
+Bharat Electronics Ltd,BEL.NS,Information Technology,Electronic Equipments,56200.02,230.65,23.88329327,243.6592943
+Bajaj Holdings and Investment Ltd,BAJAJHLDNG.NS,Financials,Asset Management,56062.44,5037.35,13.82319026,11.129351
+Apollo Hospitals Enterprise Ltd,INDUSTOWER.NS,Communication Services,Hospitals & Diagnostic Centres,55958.46,3891.95,53.01054092,14.3784657
+Indian Railway Catering and Tourism Corporation Ltd,CHOLAFIN.NS,Financials,Online Services,55608.00,695.10,292.8278041,80
+Cholamandalam Investment and Finance Company Ltd,IRCTC.NS,Communication Services,Consumer Finance,55564.69,676.60,25.80191801,82.0689629
+Hero MotoCorp Ltd,APOLLOHOSP.NS,Health Care,Two Wheelers,55358.90,2770.55,23.89372661,19.9780217
+Zomato Ltd,TATAELXSI.NS,Information Technology,Online Services,54315.33,71.05,-44.93697932,0.0351477
+Indus Towers Ltd,HEROMOTOCO.NS,Consumer Discretionary,Telecom Infrastructure,54008.91,200.45,8.474511934,269.493695
+Bandhan Bank Ltd,BANKBARODA.NS,Financials,Private Banks,52793.29,327.75,419.693893,161.0599201
+Bank of Baroda Ltd,BANDHANBNK.NS,Financials,Public Banks,52515.18,101.55,6.894524957,518.5029679
+ABB India Ltd,GLAND.NS,Health Care,Heavy Electrical Equipments,50556.04,2385.75,97.27740579,21.1908375
+Tata Elxsi Ltd,JINDALSTEL.NS,Materials,Software Services,50298.81,8076.70,91.50895516,6.227644
+Page Industries Ltd,ABB.NS,Industrials,Apparel & Accessories,50239.61,45042.30,93.63803308,1.1153874
+MindTree Ltd,JSWENERGY.NS,Utilities,IT Services & Consulting,49573.61,3007.40,29.99190047,16.4833772
+Info Edge (India) Ltd,MINDTREE.NS,Information Technology,Online Services,49050.46,3805.15,3.844212166,12.8523377
+Torrent Pharmaceuticals Ltd,VBL.NS,Consumer Staple,Pharmaceuticals,48824.99,2885.25,62.8378189,16.922272
+Mphasis Ltd,LODHA.NS,Real Estate,IT Services & Consulting,48591.07,2586.70,33.95887002,18.7112033
+Gland Pharma Ltd,PAGEIND.NS,Consumer Discretionary,Pharmaceuticals,48055.52,2919.95,39.66089648,16.3592923
+Varun Beverages Ltd,MUTHOOTFIN.NS,Financials,Soft Drinks,47103.17,1087.75,67.86614021,43.303308
+JSW Energy Ltd,MPHASIS.NS,Information Technology,Power Generation,46640.44,284.45,26.98131402,163.967091
+Macrotech Developers Ltd,PEL.NS,Financials,Real Estate,45099.57,936.45,37.50889403,39.5878
+Muthoot Finance Ltd,TORNTPHARM.NS,Health Care,Consumer Finance,44952.68,1120.05,11.19166775,40.1195856
+Balkrishna Industries Ltd,NAUKRI.NS,Communication Services,Tires & Rubber,44187.48,2285.75,30.7845147,19.331719
+Colgate-Palmolive (India) Ltd,ZOMATO.NS,Communication Services,FMCG - Personal Products,43758.41,1608.85,40.58016983,27.1985634
+Procter & Gamble Hygiene and Health Care Ltd,COLPAL.NS,Consumer Staple,FMCG - Personal Products,43412.83,13373.95,66.60554375,3.2460736
+Bosch Ltd,NMDC.NS,Materials,Auto Parts,42579.23,14436.75,34.9870425,2.949364
+Piramal Enterprises Ltd,PGHH.NS,Consumer Staple,Diversified Financials,42198.80,1777.35,21.94299706,22.5538356
+One 97 Communications Ltd,ACC.NS,Materials,Online Services,41746.70,643.50,-17.44607068,6.0482404
+ACC Ltd,BOSCHLTD.NS,Consumer Discretionary,Cement,41470.00,2208.35,22.25991563,18.837406
+PI Industries Ltd,AUBANK.NS,Financials,Diversified Chemicals,41229.33,2718.50,48.86149134,15.1894693
+Ashok Leyland Ltd,BALKRISIND.NS,Consumer Discretionary,Trucks & Buses,40891.89,139.30,-114.0288753,293.5527276
+AU Small Finance Bank Ltd,BIOCON.NS,Health Care,Consumer Finance,40837.66,1296.05,36.14527842,31.221339
+United Breweries Ltd,PIIND.NS,Materials,Alcoholic Beverages,40696.45,1539.20,111.3567778,26.4405149
+Container Corporation of India Ltd,IDBI.NS,Financials,Logistics,40366.13,662.50,39.14404783,60.9294348
+Biocon Ltd,GUJGASLTD.NS,Utilities,Biotechnology,39854.83,334.05,61.46642023,120
+Trent Ltd,STARHEALTH.NS,Financials,Retail - Apparel,39775.49,1118.90,375.8432582,35.5487461
+Jindal Steel And Power Ltd,UBL.NS,Consumer Staple,Iron & Steel,39472.31,386.95,9.838071111,102.0015971
+HDFC Asset Management Company Ltd,TRENT.NS,Consumer Discretionary,Asset Management,39145.59,1835.30,28.09902252,21.2954202
+Star Health and Allied Insurance Company Ltd,ASHOKLEY.NS,Industrials,Insurance,38663.58,671.80,-37.15258406,54.8086885
+Zydus Lifesciences Ltd,POLYCAB.NS,Industrials,Pharmaceuticals,38656.52,377.60,8.704267091,102.37426
+IDBI Bank Ltd,ABBOTINDIA.NS,Health Care,Public Banks,38654.89,35.95,15.49703963,1075.240218
+Gujarat Gas Ltd,GODREJPROP.NS,Real Estate,Gas Distribution,38288.26,556.20,29.74145642,68.8390125
+Abbott India Ltd,PAYTM.NS,Communication Services,Pharmaceuticals,38035.08,17899.45,47.62123685,2.1249302
+Canara Bank Ltd,LTTS.NS,Information Technology,Public Banks,37915.32,209.00,6.580807475,164.673822
+L&T Technology Services Ltd,ZYDUSLIFE.NS,Health Care,Software Services,37733.32,3575.35,39.42876067,10.5045823
+Godrej Properties Ltd,HDFCAMC.NS,Financials,Real Estate,37718.81,1356.85,107.0431957,27.7943051
+Jubilant Foodworks Ltd,MAXHEALTH.NS,Health Care,Restaurants & Cafes,37332.43,566.85,88.80428325,65.98452
+Alkem Laboratories Ltd,ALKEM.NS,Health Care,Pharmaceuticals,36793.14,3077.25,22.35822342,11.9565
+Polycab India Ltd,CANBK.NS,Financials,Electrical Components & Equipments,36387.47,2434.15,40.04916851,14.9118814
+NMDC Ltd,YESBANK.NS,Financials,Mining - Iron Ore,36311.37,123.90,3.866260038,293.060585
+Max Healthcare Institute Ltd,CONCOR.NS,Industrials,Hospitals & Diagnostic Centres,36278.87,374.15,59.96012028,96.5945006
+Schaeffler India Ltd,HINDPETRO.NS,Energy,Auto Parts,36212.43,2316.80,57.5604563,15.630367
+TVS Motor Company Ltd,SAIL.NS,Materials,Two Wheelers,35139.82,739.65,46.43087972,47.5087114
+Punjab National Bank,PETRONET.NS,Energy,Public Banks,34849.86,31.65,9.602867987,1047.768223
+Indian Overseas Bank,ASTRAL.NS,Industrials,Public Banks,34496.90,18.25,20.1790554,1643.69883
+Voltas Ltd,SCHAEFFLER.NS,Consumer Discretionary,Home Electronics & Appliances,34393.81,1039.45,68.2295112,33.075644
+Astral Ltd,PNB.NS,Financials,Building Products - Pipes,34131.32,1698.75,70.54839964,20.0907768
+Indian Hotels Company Ltd,AUROPHARMA.NS,Health Care,"Hotels, Resorts & Cruise Lines",33777.10,237.80,-164.6458812,122.6755764
+NHPC Ltd,IOB.NS,Financials,Renewable Energy,33701.09,33.55,9.564473466,1004.503481
+Yes Bank Ltd,TVSMOTOR.NS,Consumer Discretionary,Private Banks,33698.95,13.45,31.67015903,2505.490598
+Petronet LNG Ltd,SONACOMS.NS,Consumer Discretionary,Oil & Gas - Storage & Transportation,32932.50,219.55,9.578664421,150
+Hindustan Petroleum Corp Ltd,VOLTAS.NS,Consumer Discretionary,Oil & Gas - Refining & Marketing,32889.04,231.85,4.508912302,145.2723884
+Sona BLW Precision Forgings Ltd,NHPC.NS,Industrials,Auto Parts,32101.42,549.35,88.79077315,57.298056
+MRF Ltd,JUBLFOOD.NS,Consumer Discretionary,Tires & Rubber,31973.15,75388.05,47.77531238,0.4241143
+Bharat Forge Ltd,INDHOTEL.NS,Consumer Discretionary,Iron & Steel,31904.46,685.25,29.49310476,46.5761472
+Shriram Transport Finance Company Ltd,TIINDIA.NS,Consumer Discretionary,Consumer Finance,31704.34,1171.90,11.6512963,25.3061513
+Aurobindo Pharma Ltd,MRF.NS,Consumer Discretionary,Pharmaceuticals,30946.35,528.15,5.800801455,58.5915609
+Tube Investments of India Ltd,BHARATFORG.NS,Materials,Cycles,30879.75,1600.40,40.16460514,19.2816871
+Steel Authority of India Ltd,LAURUSLABS.NS,Health Care,Iron & Steel,30875.68,74.75,2.521807669,413.0525289
+Gujarat Fluorochemicals Ltd,POLICYBZR.NS,Communication Services,Specialty Chemicals,30827.75,2806.35,39.16226879,10.985
+PB Fintech Ltd,SRTRANSFIN.NS,Financials,Online Services,30278.23,689.55,-201.5190054,11.40975
+Laurus Labs Ltd,IDEA.NS,Communication Services,Pharmaceuticals,30242.06,562.80,36.53658,53.6602385
+Vodafone Idea Ltd,OBEROIRLTY.NS,Real Estate,Telecom Services,29870.53,9.30,-1.057536042,2873.538924
+Power Finance Corporation Ltd,LUPIN.NS,Health Care,Specialized Finance,29278.50,110.90,2.089114629,264.0081408
+Oberoi Realty Ltd,PFC.NS,Financials,Real Estate,28920.92,795.40,27.62001903,36.3602237
+Tata Communications Ltd,FLUOROCHEM.NS,Materials,Telecom Services,28633.95,1004.70,19.41363716,28.5
+Cummins India Ltd,IRFC.NS,Financials,Industrial Machinery,28562.69,1030.40,30.5895517,27.72
+Oracle Financial Services Software Ltd,TATACOMM.NS,Communication Services,Software Services,28357.52,3286.05,15.01327461,8.6062233
+Coromandel International Ltd,CUMMINSIND.NS,Industrials,Fertilizers & Agro Chemicals,27933.52,951.75,18.27559814,29.3378679
+Lupin Ltd,HONAUT.NS,Information Technology,Pharmaceuticals,27859.53,612.90,-18.23220216,45.3680133
+Persistent Systems Ltd,OFSS.NS,Information Technology,Software Services,27816.21,3757.65,40.29057387,7.643
+Indian Railway Finance Corp Ltd,CRISIL.NS,Financials,Specialized Finance,27770.58,21.25,4.560156072,1306.8506
+Honeywell Automation India Ltd,PERSISTENT.NS,Information Technology,Electronic Equipments,27655.84,31279.50,81.54938185,0.8841523
+Deepak Nitrite Ltd,COROMANDEL.NS,Materials,Commodity Chemicals,27090.39,1986.20,25.39787164,13.63935
+CG Power and Industrial Solutions Ltd,DEEPAKNTR.NS,Materials,Heavy Electrical Equipments,26945.27,176.45,29.49350691,133.8082629
+Minda Industries Ltd,IGL.NS,Utilities,Auto Parts,26844.04,939.85,92.36181237,27.1928704
+Max Financial Services Ltd,LINDEINDIA.NS,Materials,Insurance,26667.02,772.70,105.2493127,34.5090302
+CRISIL Ltd,DALBHARAT.NS,Materials,Stock Exchanges & Ratings,26358.91,3609.70,56.58726394,7.2868446
+Indraprastha Gas Ltd,GLAXO.NS,Health Care,Gas Distribution,26351.53,376.45,17.54114115,70.00008
+Union Bank of India Ltd,OIL.NS,Energy,Public Banks,25903.69,37.90,4.973349889,640.6844355
+Dalmia Bharat Ltd,ABFRL.NS,Consumer Discretionary,Cement,25746.33,1374.10,22.60432779,18.7117513
+GlaxoSmithKline Pharmaceuticals Ltd,SOLARINDS.NS,Materials,Pharmaceuticals,25724.31,1518.50,15.17908933,16.9406034
+Linde India Ltd,TATACHEM.NS,Materials,Commodity Chemicals,25662.02,3009.00,50.5944731,8.5286209
+Aditya Birla Fashion and Retail Ltd,TTML.NS,Communication Services,Retail - Apparel,25345.82,271.45,-233.1293322,93.7530659
+Aditya Birla Capital Ltd,IPCALAB.NS,Health Care,Diversified Financials,25227.40,104.40,14.78771347,241.5277978
+Atul Ltd,MINDAIND.NS,Consumer Discretionary,Diversified Chemicals,24702.08,8348.95,40.87988771,2.9617098
+Solar Industries India Ltd,RELAXO.NS,Consumer Discretionary,Commodity Chemicals,24494.75,2706.90,55.50841413,9.0490055
+Relaxo Footwears Ltd,CGPOWER.NS,Industrials,Footwear,24488.10,983.75,105.2436813,24.8246436
+Oil India Ltd,MFSL.NS,Financials,Oil & Gas - Exploration & Production,24382.85,224.85,4.33732757,108.4405194
+Bata India Ltd,UNIONBANK.NS,Financials,Footwear,24217.80,1884.25,235.1471184,12.852754
+Tata Chemicals Ltd,THERMAX.NS,Industrials,Diversified Chemicals,24206.63,949.95,19.24796512,25.4842598
+Trident Ltd,ATUL.NS,Materials,Textiles,24047.85,48.05,28.84335038,509.595567
+Bayer Cropscience Ltd,TRIDENT.NS,Consumer Discretionary,Fertilizers & Agro Chemicals,23831.89,5302.80,36.93149317,4.4942092
+Coforge Ltd,ABCAPITAL.NS,Financials,IT Services & Consulting,23748.97,3898.30,35.89084865,6.0592349
+REC Limited,RECLTD.NS,Financials,Specialized Finance,23708.89,120.05,2.362455094,197.4918
+Tata Teleservices (Maharashtra) Ltd,COFORGE.NS,Information Technology,Telecom Services,23683.98,121.15,-19.49298514,195.49277
+Zee Entertainment Enterprises Ltd,APLAPOLLO.NS,Industrials,TV Channels & Broadcasters,23503.91,244.70,24.3674942,96.0504475
+GMR Infrastructure Ltd,ZEEL.NS,Communication Services,Construction & Engineering,23178.03,38.40,-22.65049972,603.5945275
+Supreme Industries Ltd,SUPREMEIND.NS,Materials,Plastic Products,23137.31,1821.45,23.89107258,12.702687
+IPCA Laboratories Ltd,BATAINDIA.NS,Consumer Discretionary,Pharmaceuticals,22842.26,900.35,25.23337377,12.6852109
+IDFC First Bank Ltd,IDFCFIRSTB.NS,Financials,Private Banks,22665.67,36.45,171.3073402,567.5849855
+Dixon Technologies (India) Ltd,SYNGENE.NS,Health Care,Home Electronics & Appliances,22573.97,3804.05,118.704153,5.8569355
+Thermax Limited,GMRINFRA.NS,Industrials,Industrial Machinery,22561.26,2003.40,72.23995726,11.261486
+Syngene International Ltd,SUMICHEM.NS,Materials,Labs & Life Sciences Services,22280.16,559.70,56.29146747,40
+Crompton Greaves Consumer Electricals Ltd,CROMPTON.NS,Consumer Discretionary,Home Electronics & Appliances,22277.49,351.60,38.51705076,62.7691353
+APL Apollo Tubes Ltd,VINATIORGA.NS,Materials,Building Products - Pipes,22179.86,886.20,39.79949023,24.9790751
+Mahindra and Mahindra Financial Services Ltd,KANSAINER.NS,Materials,Consumer Finance,22082.24,179.10,19.42371389,123.1965618
+Sumitomo Chemical India Ltd,ESCORTS.NS,Industrials,Commodity Chemicals,21962.41,440.00,51.85317527,49.9145736
+3M India Ltd,BAYERCROP.NS,Materials,Stationery,21938.78,19475.05,80.66617697,1.126507
+Kansai Nerolac Paints Ltd,M&MFIN.NS,Financials,Paints,21785.83,404.25,60.70843694,53.891972
+Torrent Power Ltd,TORNTPOWER.NS,Utilities,Power Transmission & Distribution,21361.01,444.45,47.05379863,48.0616784
+Escorts Ltd,LICHSGFIN.NS,Financials,Tractors,21221.40,1637.95,28.81502693,13.4834566
+General Insurance Corporation of India,DIXON.NS,Consumer Discretionary,Insurance,21044.03,119.95,8.818758905,175.44
+LIC Housing Finance Ltd,3MINDIA.NS,Industrials,Home Financing,21015.16,382.05,9.194389743,50.4663
+Whirlpool of India Ltd,GICRE.NS,Financials,Home Electronics & Appliances,20900.23,1647.35,36.90207976,12.687
+Indian Bank,PFIZER.NS,Health Care,Public Banks,20867.37,167.55,5.227937705,112.936657
+KPR Mill Ltd,SUNDARMFIN.NS,Financials,Textiles,20666.07,604.60,24.54869624,34.405
+Vinati Organics Ltd,GRINDWELL.NS,Industrials,Specialty Chemicals,20519.92,1996.45,59.20176098,10.278205
+Phoenix Mills Ltd,KPRMILL.NS,Consumer Discretionary,Real Estate,20281.81,1135.95,93.40860714,17.1871176
+Bank of India Ltd,INDIANB.NS,Financials,Public Banks,19946.95,48.60,5.847161011,327.766245
+AIA Engineering Ltd,WHIRLPOOL.NS,Consumer Discretionary,Industrial Machinery,19823.31,2101.70,31.98959489,9.432037
+Devyani International Ltd,PHOENIXLTD.NS,Real Estate,Restaurants & Cafes,19667.32,163.25,125.7983969,115.363449
+Grindwell Norton Ltd,HATSUN.NS,Consumer Staple,Industrial Machinery,19640.07,1773.85,66.43012752,11.072
+Pfizer Ltd,JKCEMENT.NS,Materials,Pharmaceuticals,19557.84,4275.15,31.92804239,4.5753012
+Hatsun Agro Product Ltd,L&TFH.NS,Financials,FMCG - Foods,19341.42,897.25,88.75467674,21.5563323
+Poonawalla Fincorp Ltd,NAVINFLUOR.NS,Materials,Consumer Finance,19296.19,252.25,51.40031574,26.9616712
+Navin Fluorine International Ltd,EMAMILTD.NS,Consumer Staple,Specialty Chemicals,19126.52,3859.80,72.70231427,4.950322
+Federal Bank Ltd,POONAWALLA.NS,Financials,Private Banks,18962.30,90.15,9.780633637,199.6150748
+L&T Finance Holdings Ltd,BHEL.NS,Industrials,Diversified Financials,18926.13,76.50,17.68615432,246.9445704
+J K Cement Ltd,BANKINDIA.NS,Financials,Cement,18737.56,2425.00,27.26970944,7.7268251
+Fortis Healthcare Ltd,DEVYANI.NS,Consumer Discretionary,Hospitals & Diagnostic Centres,18473.83,244.70,33.27897731,75.4958148
+Emami Ltd,FORTIS.NS,Health Care,FMCG - Personal Products,18459.92,418.45,22.00255277,44.451374
+Clean Science and Technology Ltd,NATIONALUM.NS,Materials,Specialty Chemicals,18236.73,1716.90,79.81763499,10.621896
+Bharat Heavy Electricals Ltd,CLEAN.NS,Materials,Heavy Electrical Equipments,17967.45,51.60,40.28304579,348.2063355
+Tanla Platforms Ltd,FEDERALBNK.NS,Financials,Software Services,17955.74,1322.75,33.29576297,13.603645
+Endurance Technologies Ltd (CN),PRESTIGE.NS,Real Estate,Auto Parts,17879.67,1271.10,38.80895559,14.0662848
+Nippon Life India Asset Management Ltd,ENDURANCE.NS,Consumer Discretionary,Asset Management,17732.89,284.90,23.82941119,61.6504767
+Blue Dart Express Ltd,IEX.NS,Utilities,Logistics,17730.46,7472.40,46.38931844,2.3757934
+Sundaram Finance Ltd,AAVAS.NS,Financials,Consumer Finance,17676.11,1604.15,15.06477986,11.01809
+National Aluminium Co Ltd,SUNTV.NS,Communication Services,Metals - Aluminium,17475.55,95.15,5.921085669,183.6631787
+Aavas Financiers Ltd,BLUEDART.NS,Industrials,Home Financing,17379.26,2201.40,48.93084964,7.8504551
+Dr. Lal PathLabs Ltd,NIACL.NS,Financials,Hospitals & Diagnostic Centres,17350.85,2096.30,50.32148269,8.3344877
+SKF India Ltd,RAJESHEXPO.NS,Consumer Discretionary,Industrial Machinery,17339.38,3507.30,43.90160209,4.94
+Indian Energy Exchange Ltd,AIAENG.NS,Industrials,Power Trading & Consultancy,17235.03,192.35,55.73169258,89.54891575
+Sun Tv Network Ltd,NAM-INDIA.NS,Financials,TV Channels & Broadcasters,17081.60,433.45,10.40418922,39.408462
+Kajaria Ceramics Ltd,CHAMBLFERT.NS,Materials,Building Products - Ceramics,17081.00,1072.90,45.31010272,15.9081
+Prestige Estates Projects Ltd,RAMCOCEM.NS,Materials,Real Estate,16583.65,413.70,14.42056228,40.0861654
+Central Bank of India Ltd,MRPL.NS,Energy,Public Banks,16406.98,18.90,15.51721823,587.556246
+New India Assurance Company Ltd,LALPATHLAB.NS,Health Care,Insurance,16397.60,99.50,84.27609601,164.8
+Godrej Industries Ltd,KAJARIACER.NS,Industrials,Diversified Chemicals,16301.54,484.30,24.93619384,33.6525098
+Rajesh Exports Ltd,TANLA.NS,Information Technology,"Precious Metals, Jewellery & Watches",16268.82,551.00,19.25600831,29.5259959
+Ramco Cements Limited,SKFINDIA.NS,Industrials,Cement,16225.02,686.65,18.18173454,23.5889945
+Timken India Ltd,APTUS.NS,Financials,Industrial Machinery,16222.80,2156.75,49.59584364,7.5218734
+CreditAccess Grameen Ltd,CREDITACC.NS,Financials,Consumer Finance,15899.95,1019.80,43.7966894,15.558204
+Metro Brands Ltd,DCMSHRIRAM.NS,Materials,Footwear,15606.25,574.80,74.19180816,26.553429
+Sundram Fasteners Ltd,CENTRALBK.NS,Financials,Auto Parts,15477.01,736.55,33.88729439,21.012837
+DCM Shriram Ltd,GSPL.NS,Utilities,Diversified Chemicals,15410.22,999.30,14.45435124,16.3942296
+Sanofi India Ltd,ISEC.NS,Financials,Pharmaceuticals,15389.98,6682.40,16.29604283,2.3030622
+ZF Commercial Vehicle Control Systems India Ltd,SANOFI.NS,Health Care,Auto Parts,15064.81,7942.40,106.0379666,1.8967584
+Aptus Value Housing Finance India Ltd,GODREJIND.NS,Materials,Home Financing,15048.30,303.65,40.65571072,9.4783
+Chambal Fertilisers and Chemicals Ltd,ZFCVINDIA.NS,Consumer Discretionary,Fertilizers & Agro Chemicals,15017.42,361.15,9.589793128,41.6207852
+Gujarat State Petronet Ltd,SUNDRMFAST.NS,Consumer Discretionary,Gas Distribution,14638.46,259.45,8.935209745,56.4211376
+Ajanta Pharma Ltd,SFL.NS,Consumer Discretionary,Pharmaceuticals,14616.09,1711.15,20.50863024,8.729827
+Alembic Pharmaceuticals Ltd,AJANTPHARM.NS,Health Care,Pharmaceuticals,14477.86,736.55,26.79100092,19.6563124
+ICICI Securities Ltd,APLLTD.NS,Health Care,Investment Banking & Brokerage,14404.52,446.30,10.41842646,32.222237
+Alkyl Amines Chemicals Ltd,METROBRAND.NS,Consumer Discretionary,Specialty Chemicals,14362.34,2812.15,63.86383647,5.10317775
+Hitachi Energy India Ltd,TIMKEN.NS,Industrials,Heavy Electrical Equipments,14159.29,3340.90,69.6130472,4.2381675
+Sheela Foam Ltd,ALKYLAMINE.NS,Materials,Home Furnishing,14133.60,2897.25,65.03888016,4.8782808
+KPIT Technologies Ltd,IRB.NS,Industrials,IT Services & Consulting,14086.76,521.70,51.36843058,26.904356
+UCO Bank,AFFLE.NS,Communication Services,Public Banks,14048.25,11.75,15.10954532,991.8340622
+Indiamart Intermesh Ltd,BDL.NS,Industrials,Online Services,13986.24,4546.45,46.99677281,3.0316294
+Apollo Tyres Limited,IIFLWAM.NS,Financials,Tires & Rubber,13972.22,220.00,21.87945633,63.5100946
+Fine Organic Industries Ltd,APOLLOTYRE.NS,Consumer Discretionary,Specialty Chemicals,13820.61,4507.70,53.23603944,3.0659976
+Affle (India) Ltd,UCOBANK.NS,Financials,Advertising,13770.83,1033.45,64.38578079,12.7481835
+Narayana Hrudayalaya Ltd,KPITTECH.NS,Information Technology,Hospitals & Diagnostic Centres,13684.48,669.55,40.02129316,20.4360804
+Bharat Dynamics Ltd,GRINFRA.NS,Industrials,Aerospace & Defense Equipments,13681.95,746.50,27.36772211,18.328125
+Mangalore Refinery and Petrochemicals Ltd,FINEORG.NS,Materials,Oil & Gas - Refining & Marketing,13635.22,77.80,4.609217776,175.2663777
+G R Infraprojects Ltd,NH.NS,Health Care,Construction & Engineering,13555.32,1401.95,16.29420942,9.668901
+IRB Infrastructure Developers Ltd,CARBORUNIV.NS,Industrials,Construction & Engineering,13536.42,224.15,37.45550221,35.145
+IIFL Wealth Management Ltd,SUVENPHAR.NS,Health Care,Asset Management,13473.64,1518.00,23.32168933,8.788277
+Brightcom Group Ltd,INDIAMART.NS,Communication Services,Advertising,13462.19,67.55,27.87144625,105.8889956
+Carborundum Universal Ltd,POWERINDIA.NS,Industrials,Industrial Machinery,13446.90,708.20,40.33989803,18.9590839
+Suven Pharmaceuticals Ltd,ABSLAMC.NS,Financials,Pharmaceuticals,13022.27,511.55,28.69605625,25.4564956
+Happiest Minds Technologies Ltd,HAPPSTMNDS.NS,Information Technology,IT Services & Consulting,12782.03,896.30,70.54101959,14.1783304
+J B Chemicals and Pharmaceuticals Ltd,NATCOPHARM.NS,Health Care,Pharmaceuticals,12721.02,1646.05,33.0107421,7.7282097
+Exide Industries Ltd,MOTILALOFS.NS,Financials,Batteries,12541.75,147.55,2.871983293,85
+Aditya Birla Sun Life Amc Ltd,JBCHEPHARM.NS,Health Care,Asset Management,12417.12,431.15,18.45670883,14.4
+Natco Pharma Ltd,EXIDEIND.NS,Industrials,Pharmaceuticals,12161.96,666.20,71.54093137,18.2337825
+Century Plyboards (India) Ltd,RATNAMANI.NS,Industrials,Wood Products,11922.91,536.65,38.08385827,22.355299
+Bank of Maharashtra Ltd,IIFL.NS,Financials,Public Banks,11845.67,17.60,10.28591725,656.0158901
+Angel One Ltd,ANGELONE.NS,Financials,Investment Banking & Brokerage,11782.53,1418.35,19.16264297,8.2858722
+Ratnamani Metals and Tubes Ltd,CDSL.NS,Financials,Building Products - Pipes,11765.18,2517.80,36.46533548,4.6728
+Central Depository Services (India) Ltd,CENTURYPLY.NS,Materials,Stock Exchanges & Ratings,11735.87,1123.05,37.71409634,10.45
+Motilal Oswal Financial Services Ltd,CHOLAHLDNG.NS,Financials,Diversified Financials,11731.25,787.00,8.95665816,14.6620374
+Cholamandalam Financial Holdings Ltd,NLCINDIA.NS,Materials,Diversified Financials,11727.36,624.65,11.46291041,18.7722982
+IIFL Finance Ltd,GLENMARK.NS,Health Care,Investment Banking & Brokerage,11612.44,305.80,9.775685036,37.8840676
+TTK Prestige Ltd,TTKPRESTIG.NS,Consumer Discretionary,Home Electronics & Appliances,11559.72,833.95,37.84735029,13.86130497
+Glenmark Pharmaceuticals Ltd,ALOKINDS.NS,Consumer Discretionary,Pharmaceuticals,11553.38,409.45,12.26863666,28.2168156
+PVR Ltd,RADICO.NS,Consumer Staple,Theatres,11360.61,1862.50,-23.26850387,6.0762172
+Capri Global Capital Ltd,REDINGTON.NS,Information Technology,Consumer Finance,11325.36,644.75,55.23755609,17.5285355
+Bajaj Electricals Ltd,BCG.NS,Communication Services,Home Electronics & Appliances,11311.65,984.70,88.01473705,11.4536619
+Shriram City Union Finance Ltd,KEI.NS,Industrials,Consumer Finance,11297.43,1694.75,9.808754267,6.6005022
+Nuvoco Vistas Corporation Ltd,CGCL.NS,Financials,Cement,11271.85,315.60,351.3668388,31.5089061
+KEI Industries Ltd,PVR.NS,Communication Services,Cables,11212.27,1244.35,29.81828141,8.9855438
+BASF India Ltd,CAMS.NS,Financials,Diversified Chemicals,11075.93,2558.80,18.62001473,4.3284958
+Asahi India Glass Ltd,SHRIRAMCIT.NS,Financials,Auto Parts,10963.36,451.00,31.79812022,24.3089931
+Radico Khaitan Ltd,SJVN.NS,Industrials,Alcoholic Beverages,10904.44,815.75,43.87397352,13.3568265
+NLC India Ltd,MEDPLUS.NS,Communication Services,Metals - Diversified,10898.96,78.60,9.980279059,138.6636609
+Alok Industries Ltd,BAJAJELEC.NS,Consumer Discretionary,Textiles,10799.53,21.75,-51.77146453,496.5254322
+SJVN Ltd,MAHABANK.NS,Financials,Renewable Energy,10787.29,27.45,10.89845197,392.9795175
+Castrol India Ltd,BSOFT.NS,Information Technology,Commodity Chemicals,10731.98,108.50,14.15660128,98.9122384
+Elgi Equipments Ltd,BASF.NS,Materials,Industrial Machinery,10646.88,336.60,59.6697715,31.691
+Brigade Enterprises Ltd,ELGIEQUIP.NS,Industrials,Real Estate,10549.96,457.85,127.4611325,21.09
+Redington (India) Ltd,NUVOCO.NS,Materials,Technology Hardware,10526.13,134.70,8.005454151,77.8438544
+Birlasoft Ltd,CASTROLIND.NS,Materials,IT Services & Consulting,10439.28,373.20,22.51641197,27.7286094
+Computer Age Management Services Ltd,RENUKA.NS,Consumer Staple,Diversified Financials,10407.47,2126.95,36.26929027,4.8791038
+MedPlus Health Services Ltd,CESC.NS,Utilities,Online Services,10324.71,865.40,161.7026343,0.0486764
+CESC Ltd,ASAHIINDIA.NS,Consumer Discretionary,Power Generation,10299.68,77.70,7.578868463,133.217043
+Galaxy Surfactants Ltd,BRIGADE.NS,Real Estate,Specialty Chemicals,10268.41,2896.20,39.07605325,3.5454752
+City Union Bank Ltd,GALAXYSURF.NS,Materials,Private Banks,10250.65,138.60,13.48485437,73.8822111
+Gujarat Narmada Valley Fertilizers & Chemicals Ltd,VTL.NS,Consumer Discretionary,Fertilizers & Agro Chemicals,10177.60,654.85,5.973645784,15.5418783
+Quess Corp Ltd,KIMS.NS,Health Care,Employment Services,10175.83,687.60,42.1848549,14.7678864
+V Guard Industries Ltd,BSE.NS,Financials,Electrical Components & Equipments,10119.66,234.50,44.446848,43.0188458
+Krishna Institute of Medical Sciences Ltd,GNFC.NS,Materials,Hospitals & Diagnostic Centres,10101.51,1262.25,30.36312307,7.7593283
+Godrej Agrovet Ltd,ZYDUSWELL.NS,Consumer Staple,Agro Products,10094.26,525.35,25.07330151,19.20719
+KEC International Ltd,HINDCOPPER.NS,Materials,Construction & Engineering,9909.47,385.45,29.84061437,25.708837
+E I D-Parry (India) Ltd,BLUESTARCO.NS,Consumer Discretionary,Sugar,9901.70,558.05,10.91902828,17.7102391
+Balaji Amines Ltd,KEC.NS,Industrials,Specialty Chemicals,9845.04,3038.50,26.72161293,3.2401
+Zydus Wellness Ltd,ERIS.NS,Health Care,FMCG - Foods,9736.04,1530.05,31.5214692,6.3632144
+Lakshmi Machine Works Ltd,VGUARD.NS,Industrials,Industrial Machinery,9727.94,9106.00,53.73068103,1.0683
+Laxmi Organic Industries Ltd,QUESS.NS,Industrials,Specialty Chemicals,9669.87,365.20,37.7169613,26.3662773
+Blue Star Ltd,RHIM.NS,Materials,Home Electronics & Appliances,9666.54,1003.65,57.63844356,9.6313888
+Aster DM Healthcare Ltd,GODREJAGRO.NS,Consumer Staple,Hospitals & Diagnostic Centres,9601.30,193.10,18.25376539,49.7
+Hindustan Copper Ltd,BALAMINES.NS,Materials,Mining - Copper,9520.49,102.90,25.46812161,92.5218
+Finolex Industries Ltd,EASEMYTRIP.NS,Consumer Discretionary,Building Products - Pipes,9466.80,153.10,9.004507824,62.0476905
+Shree Renuka Sugars Ltd,LAXMIMACH.NS,Industrials,Sugar,9461.14,44.45,-68.31145878,212.8489773
+Eris Lifesciences Ltd,LXCHEM.NS,Materials,Pharmaceuticals,9372.94,689.40,23.07981081,13.5780653
+BSE Ltd,FINPIPE.NS,Industrials,Stock Exchanges & Ratings,9319.96,689.00,36.64513699,13.50778437
+Intellect Design Arena Ltd,CUB.NS,Financials,Software Services,9072.86,673.85,25.99001713,13.2974363
+Cyient Ltd,GRAPHITE.NS,Industrials,Software Services,8923.02,808.85,17.08409763,11.0317416
+Amber Enterprises India Ltd,AMBER.NS,Consumer Discretionary,Home Electronics & Appliances,8862.45,2630.30,81.16543558,3.3693731
+RHI Magnesita India Ltd,HFCL.NS,Communication Services,Cement,8859.63,550.30,32.93664484,12.01392
+Graphite India Ltd,AMARAJABAT.NS,Industrials,Electrical Components & Equipments,8757.71,448.25,17.34200198,19.5375594
+UTI Asset Management Company Ltd,UTIAMC.NS,Financials,Asset Management,8703.98,685.60,16.29074692,12.679
+ITI Ltd,METROPOLIS.NS,Health Care,Telecom Equipments,8700.43,93.20,71.8687687,93.3522869
+Metropolis Healthcare Ltd,EIDPARRY.NS,Consumer Staple,Hospitals & Diagnostic Centres,8698.94,1699.85,40.61129491,5.1106813
+HFCL Ltd,ASTERDM.NS,Health Care,Telecom Equipments,8665.60,62.95,27.67500534,128.4377194
+Amara Raja Batteries Ltd,EIHOTEL.NS,Consumer Discretionary,Batteries,8610.66,504.10,16.79898965,17.08125
+Vardhman Textiles Ltd,CYIENT.NS,Information Technology,Textiles,8610.53,298.00,5.566346178,28.2795435
+EIH Ltd,BALRAMCHIN.NS,Consumer Staple,"Hotels, Resorts & Cruise Lines",8423.66,134.70,-86.43192624,62.5364182
+Balrampur Chini Mills Ltd,SHYAMMETL.NS,Materials,Sugar,8379.05,400.85,18.0334183,21
+Century Textile and Industries Ltd,NETWORK18.NS,Communication Services,Cement,8293.40,742.50,49.80126248,11.169568
+Easy Trip Planners Ltd,INTELLECT.NS,Information Technology,Tour & Travel Services,8201.61,377.45,77.43943962,21.72791355
+V I P Industries Ltd,SUZLON.NS,Industrials,Apparel & Accessories,8187.23,578.60,122.3252848,14.1317315
+Borosil Renewables Ltd,BORORENEW.NS,Consumer Discretionary,Housewares,8091.08,620.50,48.78554662,13.0049299
+Route Mobile Ltd,SAREGAMA.NS,Communication Services,IT Services & Consulting,8013.15,1274.50,48.22259697,5.7713583
+Manappuram Finance Ltd,IDFC.NS,Financials,Consumer Finance,7977.27,94.25,6.005036261,84.6364729
+Saregama India Ltd,ITI.NS,Communication Services,Movies & TV Serials,7968.25,413.70,52.21660944,17.428012
+Fertilisers And Chemicals Travancore Ltd,LATENTVIEW.NS,Information Technology,Fertilizers & Agro Chemicals,7958.99,123.00,22.52883062,64.7071974
+IDFC Ltd,FACT.NS,Materials,Diversified Financials,7950.25,49.80,124.1644696,159.6358316
+Shyam Metalics and Energy Ltd,ROUTE.NS,Information Technology,Iron & Steel,7940.66,311.30,4.604590184,23.36101
+Latent View Analytics Ltd,JSL.NS,Materials,IT Services & Consulting,7898.55,394.10,60.99268108,17.0836575
+Tata Investment Corporation Ltd,BIRLACORPN.NS,Materials,Asset Management,7882.24,1557.90,36.79164098,5.0595296
+Chemplast Sanmar Ltd,CENTURYTEX.NS,Materials,Building Products - Pipes,7825.61,494.95,12.06446245,13.408
+Allcargo Logistics Ltd,AEGISCHEM.NS,Energy,Logistics,7819.26,318.25,8.446588153,24.5695524
+Jubilant Ingrevia Ltd,MANAPPURAM.NS,Financials,Pharmaceuticals,7818.10,491.80,16.4001222,15.9281139
+Gujarat Ambuja Exports Ltd,VIPIND.NS,Consumer Discretionary,Agro Products,7792.81,339.80,16.39074229,22.933533
+Suzlon Energy Ltd,ALLCARGO.NS,Industrials,Renewable Energy Equipment & Services,7782.15,7.95,-41.12536978,850.8012773
+Network18 Media & Investments Ltd,INDIGOPNTS.NS,Materials,Movies & TV Serials,7658.43,73.15,36.90097531,103.5361757
+Birla Corporation Ltd,MASTEK.NS,Information Technology,Cement,7640.86,992.25,19.16971213,7.7005347
+Firstsource Solutions Ltd,GAEL.NS,Consumer Staple,Outsourced services,7534.17,110.80,14.02071718,69.6099216
+Mastek Ltd,CHEMPLASTS.NS,Industrials,IT Services & Consulting,7494.15,2496.55,25.39270502,2.5232889
+Indigo Paints Ltd,ANURAS.NS,Materials,Paints,7493.31,1575.25,89.1423537,4.7568997
+Mahanagar Gas Ltd,SYMPHONY.NS,Consumer Discretionary,Gas Distribution,7403.39,749.50,12.40203444,9.8777778
+Aegis Logistics Ltd,MGL.NS,Utilities,Oil & Gas - Storage & Transportation,7358.71,209.65,20.5826667,35.1045
+Astrazeneca Pharma India Ltd,POLYPLEX.NS,Materials,Pharmaceuticals,7308.50,2923.40,118.6637441,2.5
+Westlife Development Ltd,TATAINVEST.NS,Financials,Restaurants & Cafes,7298.11,468.20,-4370.127354,15.5802865
+Mahindra CIE Automotive Ltd,FSL.NS,Information Technology,Auto Parts,7277.25,191.95,18.52189427,37.9075399
+CE Info Systems Ltd,ECLERX.NS,Information Technology,Software Services,7271.39,1365.70,83.56961272,0.511042856
+Prince Pipes and Fittings Ltd,WELSPUNIND.NS,Consumer Discretionary,Building Products - Pipes,7172.65,648.75,28.7596231,11.0025759
+Sonata Software Ltd,PGHL.NS,Health Care,IT Services & Consulting,7126.33,685.75,18.93134557,10.3859431
+Polyplex Corp Ltd,WESTLIFE.NS,Consumer Discretionary,Commodity Chemicals,7121.07,2268.40,12.51945513,3.1392462
+Housing and Urban Development Corporation Ltd,JUBLINGREA.NS,Health Care,Specialized Finance,7106.75,35.50,4.140470517,200.19
+SIS Ltd,TV18BRDCST.NS,Communication Services,Business Support Services,7075.53,481.20,21.77555953,14.83
+Home First Finance Company India Ltd,SIS.NS,Industrials,Home Financing,7028.77,802.00,37.7708022,8.7633703
+Sapphire Foods India Ltd,MAPMYINDIA.NS,Information Technology,Restaurants & Cafes,7026.53,1105.80,151.2058142,5.2790409
+Procter & Gamble Health Ltd,PRINCEPIPE.NS,Industrials,Pharmaceuticals,7012.82,4224.75,39.66529361,1.6599382
+Eclerx Services Ltd,RBLBANK.NS,Financials,Outsourced services,7008.50,2117.40,16.79084909,3.4005981
+Symphony Ltd,MAHINDCIE.NS,Consumer Discretionary,Home Electronics & Appliances,6996.75,1000.15,58.30624463,6.9957
+Anupam Rasayan India Ltd,POLYMED.NS,Health Care,Specialty Chemicals,6977.63,695.85,45.85414855,9.9922391
+TV18 Broadcast Ltd,SONATSOFTW.NS,Information Technology,TV Channels & Broadcasters,6900.30,40.25,11.80547416,171.436016
+Zensar Technologies Ltd,JSLHISAR.NS,Materials,IT Services & Consulting,6878.25,303.90,16.52233884,22.5620285
+KNR Constructions Ltd,GMMPFAUDLR.NS,Industrials,Construction & Engineering,6863.53,244.05,16.84798079,28.12346
+RBL Bank Ltd,BBTC.NS,Consumer Staple,Private Banks,6834.46,114.00,-41.13425759,59.8020398
+Bombay Burmah Trading Corporation Ltd,HUDCO.NS,Financials,Tea & Coffee,6824.04,978.05,18.46581161,6.98134
+Sterlite Technologies Ltd,SAPPHIRE.NS,Consumer Discretionary,Telecom Equipments,6820.78,171.45,110.1013309,39.66
+Poly Medicure Ltd,GRANULES.NS,Health Care,Health Care Equipment & Supplies,6760.49,704.95,46.14357115,9.5880567
+Rail Vikas Nigam Ltd,ZENSARTECH.NS,Information Technology,Specialized Finance,6745.04,32.35,7.312409558,208.50201
+Granules India Ltd,STLTECH.NS,Communication Services,Pharmaceuticals,6730.88,271.40,16.30699864,24.7674796
+Welspun India Ltd,PRAJIND.NS,Industrials,Textiles,6639.75,67.20,11.04471782,100.472515
+Multi Commodity Exchange of India Ltd,GUJALKALI.NS,Materials,Stock Exchanges & Ratings,6594.46,1295.50,45.97044316,5.0998369
+V-mart Retail Ltd,RVNL.NS,Financials,Retail - Department Stores,6512.43,3296.50,559.4873609,1.9706143
+Lux Industries Ltd,HOMEFIRST.NS,Financials,Apparel & Accessories,6485.26,2156.60,19.09282163,2.77375
+Jubilant Pharmova Ltd,MCX.NS,Financials,Pharmaceuticals,6479.97,407.10,15.65437865,15.9301139
+Can Fin Homes Ltd,EQUITASBNK.NS,Financials,Home Financing,6378.75,479.05,13.54011539,13.3154125
+PNC Infratech Ltd,VAIBHAVGBL.NS,Consumer Discretionary,Construction & Engineering,6367.30,248.20,10.96997411,25.6539165
+Sunteck Realty Ltd,KNRCON.NS,Industrials,Real Estate,6333.96,432.50,151.0603931,14.039449
+Gujarat State Fertilizers and Chemicals Ltd,SUNTECK.NS,Real Estate,Fertilizers & Agro Chemicals,6270.04,157.35,6.977724782,39.847753
+Praj Industries Ltd,JUBLPHARMA.NS,Health Care,Construction & Engineering,6231.11,339.25,41.47437108,18.3228904
+INOX Leisure Ltd,LUXIND.NS,Consumer Discretionary,Theatres,6195.11,507.00,-25.87442578,11.2485424
+Sterling and Wilson Renewable Energy Ltd,PNCINFRA.NS,Industrials,Renewable Energy Equipment & Services,6193.49,326.50,-6.810071166,16.036
+Rattanindia Enterprises Ltd,JMFINANCIL.NS,Financials,Power Trading & Consultancy,6192.57,44.80,619256.7772,138.2269592
+Godfrey Phillips India Ltd,ASTRAZEN.NS,Health Care,FMCG - Tobacco,6184.94,1189.55,14.11892607,5.199392
+Kalyan Jewellers India Ltd,WELCORP.NS,Materials,"Precious Metals, Jewellery & Watches",6118.52,59.40,27.2879991,103.0053057
+GMM Pfaudler Ltd,KALYANKJIL.NS,Consumer Discretionary,Industrial Machinery,6100.54,4173.45,71.72887169,1.46175
+Garware Technical Fibres Ltd,GSFC.NS,Materials,Textiles,6098.03,2957.60,37.00709833,2.0618169
+NBCC (India) Ltd,GODFRYPHLP.NS,Consumer Staple,Construction & Engineering,6093.00,33.85,27.47069432,180
+Chalet Hotels Ltd,MMTC.NS,Industrials,"Hotels, Resorts & Cruise Lines",6092.28,297.15,-74.73361284,20.5023864
+TCI Express Ltd,CANFINHOME.NS,Financials,Logistics,6083.88,1580.65,47.21675112,3.8434525
+MMTC Ltd,DELTACORP.NS,Consumer Discretionary,Commodities Trading,6060.00,40.40,-7.677883641,150
+Sun Pharma Advanced Research Co Ltd,CHALET.NS,Consumer Discretionary,Pharmaceuticals,6056.10,222.75,-29.77435579,26.2047506
+Jindal Stainless Ltd,SWSOLAR.NS,Industrials,Iron & Steel,6051.08,115.15,3.216503999,48.72346
+Delta Corp Ltd,AVANTIFEED.NS,Consumer Staple,Theme Parks & Gaming,6028.21,225.40,89.98665196,26.6820937
+JM Financial Ltd,NBCC.NS,Industrials,Investment Banking & Brokerage,6026.91,63.15,7.795160701,95.2722711
+Gujarat Alkalies And Chemicals Ltd,TCIEXP.NS,Industrials,Commodity Chemicals,5984.38,814.90,10.69096624,7.3439875
+RITES Ltd,SPARC.NS,Health Care,Business Support Services,5921.04,246.40,11.46665859,24.0301887
+Orient Electric Ltd,GESHIP.NS,Energy,Home Electronics & Appliances,5831.92,274.85,46.051157,21.2185502
+Just Dial Ltd,VMART.NS,Consumer Discretionary,Online Services,5796.37,688.05,81.83492138,6.1871912
+JK Paper Ltd,GARFIBRES.NS,Consumer Discretionary,Paper Products,5795.25,342.10,10.68052744,16.9402344
+Avanti Feeds Ltd,RITES.NS,Industrials,Packaged Foods & Meats,5782.95,424.45,26.09750334,13.624563
+Great Eastern Shipping Company Ltd,INOXLEISUR.NS,Communication Services,Oil & Gas - Storage & Transportation,5746.49,402.50,9.126052122,14.6969002
+Caplin Point Laboratories Ltd,GOCOLORS.NS,Consumer Discretionary,Pharmaceuticals,5737.72,756.95,19.13594593,7.564275
+Welspun Corp Ltd,MAZDOCK.NS,Industrials,Iron & Steel,5734.36,219.75,13.06828385,26.0884395
+Mazagon Dock Shipbuilders Ltd,RTNINDIA.NS,Utilities,Shipbuilding,5721.95,283.70,10.1613278,20.169
+Finolex Cables Ltd,JKPAPER.NS,Materials,Cables,5707.70,373.20,9.526481883,15.2939345
+Jyothy Labs Ltd,ORIENTELEC.NS,Consumer Discretionary,FMCG - Household Products,5691.60,155.00,35.13767132,36.7208644
+Indiabulls Housing Finance Ltd,CAPLIPOINT.NS,Health Care,Home Financing,5685.10,120.55,4.826058892,44.5348902
+Triveni Turbine Ltd,JUSTDIAL.NS,Communication Services,Heavy Electrical Equipments,5677.24,175.60,21.01204448,32.3305484
+PNB Housing Finance Ltd,JKLAKSHMI.NS,Materials,Home Financing,5667.44,336.15,6.77534481,16.8268123
+Vaibhav Global Ltd,TRITURBINE.NS,Industrials,Apparel & Accessories,5600.67,342.10,23.56190622,16.268399
+shipping corporation of India Ltd,TEAMLEASE.NS,Industrials,Logistics,5582.60,119.85,6.452233114,46.579901
+Varroc Engineering Ltd,PNBHOUSING.NS,Financials,Auto Parts,5544.62,362.90,-8.774518842,15.27864
+Go Fashion (India) Ltd,KRBL.NS,Consumer Staple,Apparel & Accessories,5484.88,1015.55,154.0697295,3.000012
+Jindal Stainless (Hisar) Ltd,IBULHSGFIN.NS,Financials,Iron & Steel,5483.12,232.40,2.822743132,23.5934685
+Rain Industries Ltd,SCI.NS,Industrials,Metals - Coke,5479.07,162.90,9.443743512,33.6345679
+Cera Sanitaryware Ltd,PRSMJOHNSN.NS,Materials,Building Products - Ceramics,5472.61,4207.80,36.22087274,1.3005874
+Prism Johnson Ltd,RCF.NS,Materials,Cement,5456.39,108.40,59.45717911,50.335658
+Equitas Small Finance Bank Ltd,INDIACEM.NS,Materials,Private Banks,5425.08,43.30,19.32422895,113.927825
+TeamLease Services Ltd,FINCABLES.NS,Industrials,Employment Services,5402.94,3162.45,140.6283485,1.7096769
+Kalpataru Power Transmission Ltd,GLS.NS,Health Care,Power Infrastructure,5342.12,358.75,9.892810809,14.8909208
+Rashtriya Chemicals and Fertilizers Ltd,RAIN.NS,Materials,Fertilizers & Agro Chemicals,5329.33,96.60,7.827918803,55.16881
+JK Lakshmi Cement Ltd,VARROC.NS,Consumer Discretionary,Cement,5314.57,451.65,11.46468317,11.7690066
+India Cements Ltd,KALPATPOWR.NS,Utilities,Cement,5308.54,171.30,92.72557298,30.9897267
+EPL Ltd,JYOTHYLAB.NS,Consumer Staple,Packaging,5213.45,165.05,24.31644383,31.5679847
+Glenmark Life Sciences Ltd,CERA.NS,Industrials,Pharmaceuticals,5210.47,425.25,12.44350295,10.780495
+KRBL Ltd,SOBHA.NS,Real Estate,Packaged Foods & Meats,5209.18,221.30,11.33909079,23.5389892
+Sobha Ltd,EDELWEISS.NS,Financials,Real Estate,5132.58,541.15,43.94335047,9.4845853
+Edelweiss Financial Services Ltd,EPL.NS,Materials,Diversified Financials,4985.02,55.50,26.40508807,89.0901297
+Restaurant Brands Asia Ltd,HLEGLAS.NS,Industrials,,4950.09,100.35,-25.26589569,38.2979644
+Rossari Biotech Ltd,ROSSARI.NS,Materials,Specialty Chemicals,4864.51,883.55,49.80553891,5.192939
+Suprajit Engineering Ltd,MHRIL.NS,Consumer Discretionary,Auto Parts,4795.77,346.55,27.70842808,13.9872473
+CCL Products India Ltd,CCL.NS,Consumer Staple,Tea & Coffee,4760.40,357.85,23.29534679,13.302792
+HLE Glascoat Ltd,PRIVISCL.NS,Materials,Industrial Machinery,4709.50,3449.40,80.96095813,1.307548
+Mahindra Holidays and Resorts India Ltd,HIKAL.NS,Health Care,"Hotels, Resorts & Cruise Lines",4554.45,227.85,67.46334948,19.9385616
+Jamna Auto Industries Ltd,SUPRAJIT.NS,Consumer Discretionary,Auto Parts,4516.40,113.30,32.07440727,39.8173935
+MTAR Technologies Ltd,JAMNAAUTO.NS,Consumer Discretionary,Industrial Machinery,4485.52,1458.25,73.69011595,3.0759591
+Privi Speciality Chemicals Ltd,PCBL.NS,Materials,Specialty Chemicals,4467.21,1143.60,45.87400963,3.9062706
+Uflex Ltd,COCHINSHIP.NS,Industrials,Packaging,4405.89,610.15,4.011703194,7.2211486
+Hikal Ltd,MTARTECH.NS,Industrials,Pharmaceuticals,4354.98,353.20,27.13215681,12.330075
+Cochin Shipyard Ltd,CEATLTD.NS,Consumer Discretionary,Shipbuilding,4298.08,326.75,7.621118576,13.154039
+HEG Ltd,NOCIL.NS,Materials,Electrical Components & Equipments,4292.01,1112.05,10.98881982,3.8596656
+Nocil Ltd,FDC.NS,Health Care,Commodity Chemicals,4221.17,253.35,23.96892331,16.621913
+CEAT Ltd,UFLEX.NS,Materials,Tires & Rubber,4159.28,1028.25,58.4168639,4.0450092
+F D C Ltd,HEG.NS,Industrials,Pharmaceuticals,4136.69,245.05,19.11594782,16.8810084
+PCBL Ltd,INFIBEAM.NS,Information Technology,Commodity Chemicals,4103.02,108.70,9.631046677,34.467572
+Infibeam Avenues Ltd,VIJAYA.NS,Health Care,IT Services & Consulting,4037.66,15.15,46.66741453,266.210716
+Hinduja Global Solutions Ltd,GPPL.NS,Industrials,Outsourced services,3957.58,946.90,0.648406427,4.175430123
+Aarti Drugs Ltd,NAZARA.NS,Consumer Discretionary,Pharmaceuticals,3938.74,425.35,19.20962251,9.32
+Nazara Technologies Ltd,IBREALEST.NS,Real Estate,Theme Parks & Gaming,3927.89,1196.35,138.3060806,3.0452836
+Rallis India Ltd,NCC.NS,Industrials,Fertilizers & Agro Chemicals,3926.33,201.90,23.91185682,19.447089
+Gujarat Pipavav Port Ltd,WOCKPHARMA.NS,Health Care,Ports,3918.28,81.05,19.85749645,48.343991
+Wockhardt Ltd,TCNSBRANDS.NS,Consumer Discretionary,Pharmaceuticals,3869.46,268.60,5.640112686,12.02163838
+Indiabulls Real Estate Ltd,HGS.NS,Information Technology,Real Estate,3861.40,71.70,-28.24315899,45.1538712
+Vijaya Diagnostic Centre Ltd,AARTIDRUGS.NS,Health Care,Hospitals & Diagnostic Centres,3840.04,376.60,35.01446862,10.19659275
+NCC Ltd,RALLIS.NS,Materials,Construction & Engineering,3811.54,62.50,7.901040971,60.9846588
+Tata Coffee Ltd,NESCO.NS,Real Estate,Tea & Coffee,3792.37,203.05,25.66923218,18.677037
+Ircon International Ltd,TATACOFFEE.NS,Consumer Staple,Construction & Engineering,3752.66,39.90,6.335310468,94.04075807
+Nesco Ltd,IRCON.NS,Industrials,Real Estate,3728.39,529.15,19.71023886,7.045996
+Karur Vysya Bank Ltd,EQUITAS.NS,Financials,Private Banks,3664.13,45.80,5.442287845,79.9320719
+Shilpa Medicare Ltd,SHILPAMED.NS,Health Care,Pharmaceuticals,3570.88,438.00,58.86709747,8.1526899
+IFB Industries Ltd,KARURVYSYA.NS,Financials,Auto Parts,3538.73,857.25,-73.47857143,4.3568796
+TCNS Clothing Co Ltd,THYROCARE.NS,Health Care,Apparel & Accessories,3533.53,573.35,-616.6719358,6.1522499
+Thyrocare Technologies Ltd,IFBIND.NS,Consumer Discretionary,Hospitals & Diagnostic Centres,3528.12,666.90,20.03022148,5.2871371
+Dilip Buildcon Ltd,INDOCO.NS,Health Care,Construction & Engineering,3449.94,235.95,12.94148939,13.6769768
+Engineers India Ltd,MOIL.NS,Materials,Construction & Engineering,3355.39,59.70,9.785914378,56.2044973
+Mahindra Logistics Ltd,DBL.NS,Industrials,Logistics,3330.62,463.00,89.87110224,7.167034
+Equitas Holdings Ltd,ENGINERSIN.NS,Industrials,Consumer Finance,3306.82,96.75,21.58639087,34.1789995
+Moil Ltd,SUDARSCHEM.NS,Materials,Mining - Manganese,3273.06,160.85,8.682086047,23.7327879
+Indoco Remedies Ltd,VAKRANGEE.NS,Information Technology,Pharmaceuticals,3240.93,351.70,20.9362273,9.2150355
+Advanced Enzyme Technologies Ltd,HATHWAY.NS,Industrials,Specialty Chemicals,3239.42,289.75,27.09228534,11.1728425
+CSB Bank Ltd,MAHLOG.NS,Industrials,Private Banks,3199.55,189.90,6.978441961,17.367957
+Hathway Cable and Datacom Ltd,CSBBANK.NS,Financials,Cable & D2H,3195.04,18.05,24.57911087,177.01045
+Railtel Corporation of India Ltd,RAILTEL.NS,Information Technology,Communication & Networking,3183.71,99.20,15.23670255,32.0938407
+Sudarshan Chemical Industries Ltd,ADVENZYMES.NS,Materials,Diversified Chemicals,3125.61,451.50,24.04685596,6.922725
+Dhani Services Ltd,DHANI.NS,Financials,Investment Banking & Brokerage,3078.32,52.65,-13.67776098,61.002401
+Tata Steel Long Products Ltd,HEMIPROP.NS,Real Estate,Iron & Steel,2991.48,663.30,4.749365742,4.51
+Vakrangee Limited,SPICEJET.NS,Industrials,Outsourced services,2982.23,28.15,27.22749831,105.9406
+Hemisphere Properties India Ltd,TATASTLLP.NS,Materials,Real Estate,2958.30,103.80,-199.0780619,28.5
+Strides Pharma Science Ltd,SEQUENT.NS,Health Care,Pharmaceuticals,2950.50,328.55,-6.411345118,8.9680964
+Spicejet Ltd,ICIL.NS,Consumer Discretionary,Airlines,2900.66,48.20,-2.816502587,60.0936903
+Indo Count Industries Ltd,VENKEYS.NS,Consumer Staple,Textiles,2834.66,143.60,7.90854354,19.739967
+Venky's (India) Ltd,STAR.NS,Health Care,Packaged Foods & Meats,2773.19,1968.20,16.82967472,1.4087336
+SeQuent Scientific Ltd,SOLARA.NS,Health Care,Pharmaceuticals,2706.32,109.05,65.62366555,24.8370995
+Solara Active Pharma Sciences Ltd,,,Pharmaceuticals,1560.62,433.55,-26.83780148,3.5929767
