@@ -31,7 +31,7 @@ This model calculates how much amount would be require to reach your goal within
 Let's you choose the sector from Nifty 500
 
 **Step 4** (Using Yahoo Finance)
-From yohoo finance api, you can check your selected sector stock historial performance via historic average, standard deviation, coefficient of variation.
+From yahoo finance api, you can check your selected sector stock historial performance via historic average, standard deviation, coefficient of variation.
 
 
 Open for changes.
